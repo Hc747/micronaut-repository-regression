@@ -1,1 +1,1 @@
-Reported as: https://github.com/micronaut-projects/micronaut-core/issues/5392
+Reported as: https://github.com/micronaut-projects/micronaut-data/issues/1009
